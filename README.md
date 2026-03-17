@@ -1,5 +1,3 @@
-# Melody-Master
-A Powerfull Service In The Bangladesh
 <!DOCTYPE html>
 <html lang="en">
 <head>
